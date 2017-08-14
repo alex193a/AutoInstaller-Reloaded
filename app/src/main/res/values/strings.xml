@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name" translatable="false">AutoInstall Reloaded</string>
+    <string name="enabled">Enabled</string>
+    <string name="enabled_summary">Enable autoinstaller</string>
+    <string name="xposedDescription">Xposed Module allowing you to skip confirmation in PackageInstaller and just automatically install</string>
+
+</resources>
