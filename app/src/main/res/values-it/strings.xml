@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="enabled">Abilitato</string>
-    <string name="enabled_summary">Abilita autoinstaller</string>
     <string name="xposedDescription">Modulo Xposed che consente di ignorare la conferma in PackageInstaller e installare automaticamente</string>
 
 </resources>
